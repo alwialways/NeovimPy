@@ -2,4 +2,4 @@
 Neovim setup untuk python 
 
 #How to install?
-```bash install.sh```
+```git clone https://github.com/alwialways/NeovimPy && cd neovimPy &&  bash install.sh```
